@@ -4,6 +4,10 @@ body {
   font-family: 'STIX Two Math';
 }
 
+.logo-image {
+  width: 260px;
+}
+
 .one-per-line {
   display: block;
 }
